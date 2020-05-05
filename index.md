@@ -4,7 +4,7 @@ title: Home
 ---
 
 ![Photo in the ANHM](../images/tomasini_professional.jpg =100x) 
-
+<img src="../images/tomasini_professional.jpg" height=200" align="left"/>
 Welcome to my website! I am a postdoc at Michigan State University, using statistical methods to study population genetics in a spatial context.
 
 I did my PhD in population genetics at University of Bern, with a thesis on rapid adaptation in the presence of gene flow.
