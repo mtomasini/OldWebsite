@@ -27,16 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mattomasini
 github_username:  mtomasini
 
-production_url : https://mtomasini.github.io
-
 markdown: kramdown
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-BASE_PATH : https://mtomasini.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
