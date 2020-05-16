@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+permalink: "research.html"
 ---
 
 Here you can find more about the topics I am interested in, and my publications.
