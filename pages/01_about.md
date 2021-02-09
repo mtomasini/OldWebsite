@@ -6,7 +6,7 @@ permalink: "about.html"
 
 [Here](../docs/CV.pdf) you can find my CV.
 
-Currently, I’m doing a postdoc in the [Bradburd Lab](http://www.genescape.org/) at Michigan State University. I am interested in how genetic patterns -- such as neutral genetic diversity -- evolve in space and time. While most of population genetics has been focusing on models of discrete space, species often evolve in continuous space. However, most models of evolution in continuous space have so far been limited to very specific cases or are not relevant for real biological scenarios. In my work, I try on one hand to understand how continuous space could be correctly introduced in our models, and on the other hand how we can still approximate continuous space as being discrete when dealing with genetic data analysis.
+I will soon be starting a postdoc in the [Rafajlović Evolution Modelling Group](https://www.gu.se/en/research/rafajlovic-evolution-modelling-group) at the University of Gothenburg. I am generally interested in evolution in space; in particular, in my research I try to understand how spatial and temporal factors influence the evolution of genetic patterns. Before moving to Scandinavia, I did a postdoc in the [Bradburd Lab](http://www.genescape.org/) at Michigan State University.
 
 I did my PhD at the University of Bern, working in the [Interfaculty Bioinformatics Unit](https://www.bioinformatics.unibe.ch/index_eng.html) and the [Computational and Molecular Population Genetics](https://www.cmpg.iee.unibe.ch/index_eng.html) lab, under the supervision of [Dr. Stephan Peischl](http://www.bioinformatics.unibe.ch/about_us/staff/dr_peischl_stephan/index_eng.html) and [Prof. Laurent Excoffier](https://www.cmpg.iee.unibe.ch/about_us/team/researchers/prof_dr_excoffier_laurent/index_eng.html). My research there focused on processes of fast adaptation in a spatially explicit context, in particular in populations facing harsh environmental changes. In such situation, the establishment of new mutations is an important aspect in preventing extinction. The survival of an endangered population following the establishment of a beneficial mutation takes the name of “evolutionary rescue”.
 
@@ -24,7 +24,9 @@ In my free time I like to do sports and to play music. Furthermore, I enjoy stud
 
 **Short CV**
 
-2019 – current: Postdoc at Michigan State University
+2021 – present: Postdoc at University of Gothenburg
+
+2019 – 2020: Postdoc at Michigan State University
 
 2015 – 2019: PhD studies in population genetics at Universität Bern
 
