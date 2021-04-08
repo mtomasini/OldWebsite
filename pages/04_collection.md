@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Collection
-permalink: *"collection.html"
+permalink: "collection.html"
 ---
 
 People have fun collecting many different things. In the years I created quite a particular collection: I collect places where I ran. To enter in my collection, a run needs to either be an official race (even popular, as long as it required to sign in), or having been longer than 30 minutes. Here goes (in alphabetical order, by country)!
