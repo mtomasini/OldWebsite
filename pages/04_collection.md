@@ -31,6 +31,7 @@ People have fun collecting many different things. In the years I created quite a
     - Tenero (14.11.10, Half-Marathon)
     - Tesserete (cross Ticino 2009 and 2010)
     - Uster (Uster Triathlon, 2018)
+    - Val Verzasca (29.08.2021)
     - Zug (Zytturm Triathlon, 2017 and 2018)
     - Zürich (Züritriathlon 2007, 5150 Series - 2017)
 - United States of America
