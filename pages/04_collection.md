@@ -13,7 +13,9 @@ People have fun collecting many different things. In the years I created quite a
 - Nederland
     - Nijmegen (21.07.09)
 - Sverige
+    - Borås (September 2021)
     - Göteborg (recurrent, 2021-present)
+    - Tjärnö (August 2021)
 - Schweiz / Suisse / Svizzera
     - Ascona (recurrent, 2006-2008)
     - Bern (recurrent, 2015-2019)
